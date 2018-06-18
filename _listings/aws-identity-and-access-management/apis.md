@@ -10,10 +10,10 @@ description: AWS Identity and Access Management (IAM) enables you to securely co
   get started with theseIAM Best Practices.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSIAM.png
 x-kinRank: "10"
-x-alexaRank: ""
+x-alexaRank: "0"
 tags: Entities
-created: "2018-05-20"
-modified: "2018-05-20"
+created: "2018-06-18"
+modified: "2018-06-18"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/entities/master/_listings/aws-identity-and-access-management/apis.md
 specificationVersion: "0.14"
 apis:

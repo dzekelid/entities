@@ -10,10 +10,10 @@ description: Google Cloud Natural Language API reveals the structure and meaning
   or integrate with your document storage on Google Cloud Storage.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/powerful-text-analysis-2x.png
 x-kinRank: "9"
-x-alexaRank: ""
+x-alexaRank: "0"
 tags: Entities
-created: "2018-05-20"
-modified: "2018-05-20"
+created: "2018-06-18"
+modified: "2018-06-18"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/entities/master/_listings/google-cloud-natural-language/apis.md
 specificationVersion: "0.14"
 apis:
@@ -26,7 +26,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/powerful-text-analysis-2x.png
   humanURL: https://cloud.google.com/natural-language/
   baseURL: ://language.googleapis.com////v1/documents:analyzeEntities
-  tags: Entities
+  tags: Machine Learning,Entities
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/entities/master/_listings/google-cloud-natural-language/v1documentsanalyzeentities-post-openapi.md

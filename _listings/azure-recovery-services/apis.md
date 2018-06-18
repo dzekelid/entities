@@ -7,10 +7,10 @@ description: Learn how to use Site Recovery for business continuity and disaster
   and virtual machines to the cloud or to a secondary datacenter.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-site-recovery.png
 x-kinRank: "10"
-x-alexaRank: ""
+x-alexaRank: "0"
 tags: Entities
-created: "2018-05-20"
-modified: "2018-05-20"
+created: "2018-06-18"
+modified: "2018-06-18"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/entities/master/_listings/azure-recovery-services/apis.md
 specificationVersion: "0.14"
 apis:
@@ -23,9 +23,9 @@ apis:
   tags: Registered Identities
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/entities/master/_listings/azure-recovery-services/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftrecoveryservicesvaultsvaultnameregisteredidentitiesidentityname-delete-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/entities/master/_listings/azure-recovery-services/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-recoveryservicesvaultsvaultnameregisteredidentitiesidentityname-delete-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/entities/master/_listings/azure-recovery-services/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftrecoveryservicesvaultsvaultnameregisteredidentitiesidentityname-delete-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/entities/master/_listings/azure-recovery-services/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-recoveryservicesvaultsvaultnameregisteredidentitiesidentityname-delete-openapi.md
 - name: Azure Recovery Service API
   x-api-slug: azure-recovery-service-api
   description: Learn how to use Site Recovery for business continuity and disaster
